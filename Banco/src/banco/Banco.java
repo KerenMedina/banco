@@ -16,6 +16,7 @@ public class Banco {
      */
     public static void main(String[] args) {
         System.out.print("Hola");
+        System.out.print("Primer paso");
     }
     
 }
