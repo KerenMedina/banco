@@ -19,6 +19,7 @@ public class Banco {
         System.out.print("Primer paso");
         System.out.print("Segundo paso");
         System.out.print("Tercer paso");
+        System.out.print("Cuarto paso");
     }
     
 }
